@@ -1,0 +1,11 @@
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\bin\Debug\TreasureManager.exe.config
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\bin\Debug\TreasureManager.exe
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\bin\Debug\TreasureManager.pdb
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\obj\Debug\TreasureManager.csprojResolveAssemblyReference.cache
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\obj\Debug\TreasureManager.Form1.resources
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\obj\Debug\TreasureManager.Forms.LoginForm.resources
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\obj\Debug\TreasureManager.Forms.PropertyForm.resources
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\obj\Debug\TreasureManager.Properties.Resources.resources
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\obj\Debug\TreasureManager.csproj.GenerateResource.Cache
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\obj\Debug\TreasureManager.exe
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager\obj\Debug\TreasureManager.pdb

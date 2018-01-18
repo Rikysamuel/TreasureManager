@@ -1,0 +1,10 @@
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager.Business\bin\Debug\TreasureManager.Business.dll.config
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager.Business\bin\Debug\TreasureManager.Business.dll
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager.Business\bin\Debug\TreasureManager.Business.pdb
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager.Business\bin\Debug\log4net.dll
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager.Business\obj\Debug\TreasureManager.Business.dll
+d:\data\documents\visual studio 2015\Projects\TreasureManager\TreasureManager.Business\obj\Debug\TreasureManager.Business.pdb
+D:\Data\Documents\Visual Studio 2015\Projects\TreasureManager\TreasureManager.Business\bin\Debug\Npgsql.dll
+D:\Data\Documents\Visual Studio 2015\Projects\TreasureManager\TreasureManager.Business\bin\Debug\Npgsql.pdb
+D:\Data\Documents\Visual Studio 2015\Projects\TreasureManager\TreasureManager.Business\bin\Debug\Npgsql.xml
+D:\Data\Documents\Visual Studio 2015\Projects\TreasureManager\TreasureManager.Business\obj\Debug\TreasureManager.Business.csprojResolveAssemblyReference.cache
